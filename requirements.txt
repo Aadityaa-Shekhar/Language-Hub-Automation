@@ -1,0 +1,4 @@
+Flask==2.2.2
+notion-client==0.7.0
+schedule==1.1.0
+boto3==1.21.0
